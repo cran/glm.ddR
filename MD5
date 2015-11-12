@@ -1,0 +1,14 @@
+ec8559cb35ca7f03070f57f952471f23 *DESCRIPTION
+e8c1458438ead3c34974bc0be3a03ed6 *LICENSE
+7e89d4690ee0d86dc419c9c1ab030cf6 *NAMESPACE
+3d89246ec7fd3ea57639b9520d0c5a63 *R/dglm.R
+21387c0e911f0847e8127447b5e596c4 *R/dglm.fit.R
+294a2138cab0e9510239e262b22085b2 *README.md
+60f8e4b84c5bc1d7a8f3f0ad32438853 *man/dglm.Rd
+ce37dff5bad41c7d4afea7d5cd51629c *man/dglm.control.Rd
+c6bc69e2c3b36bc8e5899d5313694255 *man/glm.ddR-package.Rd
+ab038c113dedf1df42ee17029401e764 *man/predict.dglm.Rd
+6338da3c23a7b63ed642d5cef8b411e8 *man/residuals.dglm.Rd
+71234ca4251728d592d0aeb698642389 *man/summary.dglm.Rd
+c4bc98c5bc4f5462f7541ad97d787480 *tests/test-all.R
+ed917862ce933751eb17ad4c27f77a0e *tests/testthat/test-dglm.R
